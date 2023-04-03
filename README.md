@@ -1,4 +1,4 @@
-## Bem-vindo(a)
+## Welcome
 
  <div>
    <a href="https://github.com/viniciuselt">
@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Contato
+  ### Contact
  
 <div> 
   
