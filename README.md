@@ -28,9 +28,12 @@
  
  <br>
  
-<h1 align="center">
-  Contact
-</h1>
+<div align="center" style="display: inline_block"><br>
+
+### Contact
+ 
+</div>
+
  
 <div align="center"> 
   
