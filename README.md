@@ -4,7 +4,7 @@
 
  <div align="center">
    <a href="https://github.com/viniciuselt">
-   <img height="180em" src="https://github-readme-stats-one-kappa.vercel.app/api?username=viniciuselt&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-viniciuselt.vercel.app/api?username=viniciuselt&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
    
 
 </div>
@@ -24,7 +24,7 @@
 
 <div align="center">
 <a href="https://github.com/viniciuselt">
-  <img align="center" src="https://github-readme-stats-one-kappa.vercel.app/api/top-langs/?username=viniciuselt&theme=highcontrast">
+  <img align="center" src="https://github-readme-stats-viniciuselt.vercel.app/api/top-langs/?username=viniciuselt&theme=highcontrast">
 </a> 
  </div>
  
