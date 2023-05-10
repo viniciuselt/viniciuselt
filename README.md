@@ -1,13 +1,6 @@
 <h1 align="center">
   Welcome!
-</h1>
-
- <div align="center">
-   <a href="https://github.com/viniciuselt">
-   <img height="180em" src="https://github-readme-stats-viniciuselt.vercel.app/api?username=viniciuselt&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   
-
-</div>
+</h1> 
 <div align="center" style="display: inline_block"><br>
 
 ### Skills
